@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kevin m anderson / kevin m anderson"
+title                    : "kevin m anderson"
 title_separator          : "-"
 name                     : &name "kevin m anderson"
 description              : &description "PhD Candidate at Yale University"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "kevin m anderson"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate at Yale University"
+  location         : "New Haven, CT"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
