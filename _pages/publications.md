@@ -15,7 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### CV
 [**[CV]**](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/kevinmanderson_cv_171218.pdf)
 
 
