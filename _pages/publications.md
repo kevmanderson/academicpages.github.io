@@ -13,8 +13,8 @@ Allswede, D.M., Zheutlin, A.B., Chung, Y., **Anderson, K.M.**, Hultman, C.M., In
 
 Barnes, K.A., **Anderson, K.M.**, Plitt, M. & Martin, A. (2014). Individual differences in intrinsic brain connectivity predict decision strategy. Journal of Neurophysiology. 15;112(8):1838-48 [[PDF]](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/JNeurophys_2014_Barnes.pdf)
 
-\newline  
-  
+<br />
+
 ### Manuscripts
 **Anderson, K.M.**, Krienen, F.M., Choi, E.Y., Reinen, J.M., Yeo, B.T., Holmes. A.J. (In Revision). Gene expression links functionally coupled aspects of cortex and striatum.
 
