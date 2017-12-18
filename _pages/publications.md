@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ### Publications
 
 *Dal Monte, O., *Piva M., **Anderson, K.M.**, Tringides, M., Holmes. A.J., Chang, S.W.C (2017). Oxytocin under opioid antagonism leads to supralinear enhancement of social attention. Proceedings of the National Academy of Sciences. 114(20):5247–5252. [[PDF]](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/PNAS_2017_DalMonte.pdf)
