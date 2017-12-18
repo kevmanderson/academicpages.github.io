@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[**[CV]**](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/kevinmanderson_cv_171218.pdf)
+[<span style="color:blue">red**[CV]**</span>](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/kevinmanderson_cv_171218.pdf)
 
 **e-mail:** kevin.anderson@yale.edu
 
