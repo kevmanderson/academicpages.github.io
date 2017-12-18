@@ -11,7 +11,7 @@ author_profile: true
 
 Allswede, D.M., Zheutlin, A.B., Chung, Y., Anderson, K.M., Hultman, C.M., Ingvar M., Cannon, T.D. (2017). Complement gene expression correlates with superior frontal cortical thickness in humans. Neuropsychopharmacology. 
 
-Barnes, K.A., Anderson, K.M., Plitt, M. & Martin, A. (2014). Individual differences in intrinsic brain connectivity predict decision strategy. Journal of Neurophysiology. 15;112(8):1838-48
+Barnes, K.A., Anderson, K.M., Plitt, M. & Martin, A. (2014). Individual differences in intrinsic brain connectivity predict decision strategy. Journal of Neurophysiology. 15;112(8):1838-48 [[PDF]](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/JNeurophys_2014_Barnes.pdf)
 
 
 ### Manuscripts
