@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV | Publications"
-    url: /publications/
+  - title: "<span style="color:DodgerBlue">redCV | Publications</span>"
+    url: /publications/ 
 
   - title: "Research"
     url: /research/    
