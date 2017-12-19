@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[<span style="color:CornflowerBlue">**[CV]**</span>](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/kevinmanderson_cv_171218.pdf)
+[<span style="color:CornflowerBlue">**[CV]**</span>](https://drive.google.com/file/d/1Pz4BM_dFpmKM8lO2XqN2rqRYjxhQzVmd/view?usp=sharing)
 
 **e-mail:** kevin.anderson@yale.edu
 
