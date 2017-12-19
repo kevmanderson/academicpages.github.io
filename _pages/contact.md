@@ -15,5 +15,5 @@ author_profile: true
 
 [<span style="color:DarkBlue">**stats consulting:**</span>](http://statlab.stat.yale.edu/walkin_help/consultants/) <http://statlab.stat.yale.edu/walkin_help/consultants/>
 
-<span style="color:DarkBlue">**department:**</span>(https://psychology.yale.edu/people/kevin-anderson) <https://psychology.yale.edu/people/kevin-anderson>
+[<span style="color:DarkBlue">**department:**</span>](https://psychology.yale.edu/people/kevin-anderson) <https://psychology.yale.edu/people/kevin-anderson>
 
