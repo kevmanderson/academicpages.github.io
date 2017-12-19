@@ -83,7 +83,7 @@ author:
   bio              : "PhD Candidate at Yale University"
   location         : "New Haven, CT"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=XIq9mrMAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/kevmanderson"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
