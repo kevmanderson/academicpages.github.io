@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[<span style="color:CornflowerBlue">**[CV]**</span>](https://github.com/kevmanderson/kevmanderson.github.io/blob/master/files/kevinmanderson_cv_171218.pdf)
+[<span style="color:CornflowerBlue">**[CV]**</span>](https://drive.google.com/file/d/1Pz4BM_dFpmKM8lO2XqN2rqRYjxhQzVmd/view?usp=sharing)
 
 
 ### Publications
