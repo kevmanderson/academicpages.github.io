@@ -15,7 +15,7 @@ author_profile: true
 [Jenna Reinen](https://scholar.google.com/citations?user=l1Te_8UAAAAJ&hl=en)  
 [Adam Chekroud](https://www.springhealth.com/about)  
 
-<span style="color:Gold">**Vanderbilt**</span>  
+<span style="color:GoldenRod">**Vanderbilt**</span>  
 [David Zald](http://zaldlab.psy.vanderbilt.edu/)
 
 <span style="color:CornflowerBlue">**NIMH**</span>  
