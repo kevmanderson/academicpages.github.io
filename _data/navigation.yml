@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "CV | Puasfdasblications"
+  - title: "<span style="color:CornflowerBlue">CV | Publications</span>  "
     url: /publications/ 
 
   - title: "Research"
