@@ -9,11 +9,11 @@ author_profile: true
 
 **e-mail:** kevin.anderson@yale.edu  
 
-**github:** https://github.com/kevmanderson
+**github:** <https://github.com/kevmanderson>
 
-**scholar** https://scholar.google.com/citations?user=XIq9mrMAAAAJ&hl=en
+**scholar** <https://scholar.google.com/citations?user=XIq9mrMAAAAJ&hl=en>
 
-**stats consulting:** http://statlab.stat.yale.edu/walkin_help/consultants/  
+**stats consulting:** <http://statlab.stat.yale.edu/walkin_help/consultants/>
 
-**department:** https://psychology.yale.edu/people/kevin-anderson
+**department:** <https://psychology.yale.edu/people/kevin-anderson>
 
