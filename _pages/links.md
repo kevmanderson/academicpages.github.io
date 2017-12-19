@@ -18,6 +18,6 @@ author_profile: true
 <span style="color:Gold">**Vanderbilt**</span>  
 [David Zald](http://zaldlab.psy.vanderbilt.edu/)
 
-<span style="color:CornflowerBlue">**Vanderbilt**</span>  
+<span style="color:CornflowerBlue">**NIMH**</span>  
 [Alex Martin](https://www.nimh.nih.gov/labs-at-nimh/research-areas/clinics-and-labs/lbc/index.shtml)
 
