@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+## Collaborators & Friends 
+
 <span style="color:DarkBlue">**Yale**</span>  
 [BJ Casey](http://fablab.yale.edu/)  
 [Ty Cannon](http://campuspress.yale.edu/cannonlab/)  
