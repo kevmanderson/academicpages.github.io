@@ -10,6 +10,7 @@ author_profile: true
 ## Collaborators & Friends 
 
 <span style="color:DarkBlue">**Yale**</span>  
+[Avram Holmes](http://holmeslab.yale.edu/)  
 [BJ Casey](http://fablab.yale.edu/)  
 [Ty Cannon](http://campuspress.yale.edu/cannonlab/)  
 [Steve Chang](https://changlab.yale.edu/gallery/welcome-lab)  
