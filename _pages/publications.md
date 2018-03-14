@@ -19,7 +19,7 @@ author_profile: true
 
 
 ### Publications
-**Anderson, K.M.**, Krienen, F.M., Choi, E.Y., Reinen, J.M., Yeo, B.T., Holmes. A.J. (2018). Gene expression links functionally coupled aspects of cortex and striatum. *Nature Communications*
+**Anderson, K.M.**, Krienen, F.M., Choi, E.Y., Reinen, J.M., Yeo, B.T., Holmes. A.J. (2018). Gene expression links functional networks across cortex and striatum. *Nature Communications*
 
 Reinen, J.M., Chén, O.Y., Hutchison, R.M., Yeo, B.T.T., **Anderson, K.M.**, Sabuncu, M.R., Öngür, D., Roffman, J.L., Smoller, J.W., Baker, J.T., Holmes, A.J. (In Press). The human cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychosis. *Nature Communications*
 
