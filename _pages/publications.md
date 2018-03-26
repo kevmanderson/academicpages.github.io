@@ -29,6 +29,11 @@ Allswede, D.M., Zheutlin, A.B., Chung, Y., **Anderson, K.M.**, Hultman, C.M., In
 
 Barnes, K.A., **Anderson, K.M.**, Plitt, M. & Martin, A. (2014). Individual differences in intrinsic brain connectivity predict decision strategy. *Journal of Neurophysiology*. 15;112(8):1838-48  [<span style="color:CornflowerBlue">[PDF]</span>](https://drive.google.com/file/d/13FHVNHbipSNIzrBR_w68AoLH823pA4qD/view?usp=sharing)
 
+
+### Manuscripts
+Elliott, M.L., Belsky, D.W., **Anderson, K.M**, Corcoran, D.L., Ge, T., Knodt, A., Prinz, J.A., Sugden, K., Williams, B., Ireland, D., Poulton, R., Caspi. A., Holmes A.J., Moffitt, T., Hariri, A.R. (2018) A Polygenic Score for Higher Educational Attainment is Associated with Larger Brains. https://www.biorxiv.org/content/early/2018/03/23/287490
+
+
 <br />
 
 
