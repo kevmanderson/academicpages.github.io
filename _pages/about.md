@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[<span style="color:CornflowerBlue">**[CV]**</span>](https://drive.google.com/file/d/1KRrMkxyOKGomH68JLicfbC6nJJn3tp18/view?usp=sharing)
+[<span style="color:CornflowerBlue">**[CV]**</span>](https://drive.google.com/file/d/1BcNHZT7J884nF3yJFVBWHQVqKnKN9KZB/view?usp=sharing)
 
 **e-mail:** kevin.anderson@yale.edu
 
